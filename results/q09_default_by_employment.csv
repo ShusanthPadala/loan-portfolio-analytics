@@ -1,0 +1,6 @@
+employment_duration,loans,default_rate_pct
+... < 1 year,172,40.7
+unemployed,62,37.1
+1 <= ... < 4 years,339,30.7
+... >= 7 years,253,25.3
+4 <= ... < 7 years,174,22.4

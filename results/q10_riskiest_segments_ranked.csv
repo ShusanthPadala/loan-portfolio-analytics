@@ -1,0 +1,11 @@
+checking_account_status,duration_band,loans,default_rate_pct,risk_rank
+... < 100 DM,25+ months,64,65.6,1
+0 <= ... < 200 DM,25+ months,80,55.0,2
+... < 100 DM,13-24 months,118,50.8,3
+... < 100 DM,<=12 months,92,35.9,4
+0 <= ... < 200 DM,13-24 months,98,34.7,5
+0 <= ... < 200 DM,<=12 months,91,29.7,6
+no checking account,25+ months,77,18.2,7
+... >= 200 DM / salary for at least 1 year,<=12 months,30,16.7,8
+no checking account,13-24 months,171,12.3,9
+no checking account,<=12 months,146,7.5,10

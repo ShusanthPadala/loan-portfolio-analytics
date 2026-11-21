@@ -1,0 +1,8 @@
+purpose,loans,default_rate_pct,avg_loan_amount
+retraining,50,44.0,3180.0
+car (new),234,38.0,3063.0
+education,22,36.4,2728.0
+others,97,35.1,4158.0
+radio/television,181,32.0,3067.0
+domestic appliances,280,22.1,2488.0
+car (used),103,16.5,5370.0

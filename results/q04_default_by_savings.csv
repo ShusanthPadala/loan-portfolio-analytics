@@ -1,0 +1,6 @@
+savings,loans,default_rate_pct
+... < 100 DM,603,36.0
+100 <= ... < 500 DM,103,33.0
+unknown/no savings account,183,17.5
+500 <= ... < 1000 DM,63,17.5
+... >= 1000 DM,48,12.5

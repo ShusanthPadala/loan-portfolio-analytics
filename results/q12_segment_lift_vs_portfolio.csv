@@ -1,0 +1,5 @@
+checking_account_status,loans,default_rate_pct,lift_vs_portfolio
+... < 100 DM,274,49.3,1.64
+0 <= ... < 200 DM,269,39.0,1.3
+... >= 200 DM / salary for at least 1 year,63,22.2,0.74
+no checking account,394,11.7,0.39

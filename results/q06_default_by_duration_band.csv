@@ -1,0 +1,5 @@
+duration_band,loans,default_rate_pct
+1. <=12 months,359,21.2
+2. 13-24 months,411,29.7
+3. 25-36 months,143,39.9
+4. 37+ months,87,51.7
